@@ -6,9 +6,9 @@ Results of ML project "The War on Cancer"/ RWTH Aachen
 ## Overview
 This project focuses on the development of predictive models for estrogen receptor (ER) status and relapse using gene expression data in combination with corresponding clinical metadata from a cohort of patients with breast (mammary) carcinoma. Principal component analysis and clustering analyses of gene expression data from patients with breast (mammary) carcinoma revealed the presence of two distinct molecular subtypes. However, using gene expression data alone, it was not possible to develop high-quality predictive models for the available staging parameters (histological grade, lymph node status, and tumor size) or for the clinical outcome relapse. 
 
-> Gene expression data:  [gene_expression.csv](data/gene_expression.csv)   
-> Clincal data:
-> Jupyter notebook with code: 
+> Gene expression data:  [gene_expression](data/mammacarcinoma_gex.csv)   
+> Clincal data: [clinical data](data/mammacarcinoma_pat.csv)   
+> Jupyter notebook with code: [notebook](notebooks/project.ipynb)   
 
 ## Project Structure
 
