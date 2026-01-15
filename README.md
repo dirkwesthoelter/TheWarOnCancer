@@ -20,6 +20,8 @@ This project focuses on the development of predictive models for estrogen recept
 ├── requirements/      # Packages used for analyses
 └── README.md
 
+---
+
 ## Getting Started
 ### Prerequisites
 - Analyses were performed using Python 3.11.9 in Visual Studio Code (v1.107.1) with a Jupyter Notebook kernel.
