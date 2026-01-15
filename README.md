@@ -17,4 +17,23 @@ This project focuses on the development of predictive models for estrogen recept
 ├── data/              # Two raw data csv files
 ├── notebooks/         # Jupyter notebooks for exploration, training, analysis
 ├── results/           # Generated outputs (figures, tables, metrics, models) and interpretation in form of a report.
+├── requirements/      # Packages used for analyses
 └── README.md
+
+### Prerequisites
+- Analyses were performed using Python 3.11.9 in Visual Studio Code (v1.107.1) with a Jupyter Notebook kernel.
+
+### Setup with pip
+The following steps assume that the project has been downloaded or cloned locally
+and that all commands are executed from the project root directory.
+
+1. Create and activate a virtual environment:
+
+```bash
+python3.11 -m venv .venv
+source .venv/bin/activate
+
+2. Install dependencies
+
+pip install --upgrade pip
+pip install -r requirements.txt
