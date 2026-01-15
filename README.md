@@ -18,7 +18,7 @@ This project repository contains raw data (gene expression and clinical data), n
 ├── data/              # Two raw data csv files
 ├── notebooks/         # Jupyter notebooks for exploration, training, analysis
 ├── results/           # Generated outputs (figures, tables, metrics, models) and interpretation in form of a report.
-├── requirements/      # Packages used for analyses
+├── requirements       # Packages used for analyses
 └── README.md
 ```
 
