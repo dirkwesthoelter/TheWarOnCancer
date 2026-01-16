@@ -8,7 +8,7 @@ This project focuses on the development of predictive models for estrogen recept
 
 > Gene expression data:  [gene_expression](data/mammacarcinoma_gex.csv)   
 > Clincal data: [clinical data](data/mammacarcinoma_pat.csv)   
-> Jupyter notebook with code: [notebook](notebooks/project.ipynb)   
+> Jupyter notebook with code: [notebook](notebooks/project_final.ipynb)   
 > Results and interpretation: [results-pdf](results/Report_DW.pdf)
 
 ## Project Structure
